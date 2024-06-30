@@ -1,0 +1,38 @@
+count-increment-percentage: 0.2 # 20%
+count-decrement-percentage: 0.1
+price-increment-percentage: 0.1
+price-decrement-percentage: 0.2
+max-buyer-categories: 3
+max-categories-changing: 5
+rarities:
+  COMMON:
+    start_color: "#D4D4D4"
+    end_color: "#A7A7A7"
+  UNCOMMON:
+    start_color: "#45DC45"
+    end_color: "#14AD6E"
+  RARE:
+    start_color: "#00EDFF"
+    end_color: "#2CA0FF"
+  EPIC:
+    start_color: "#D348E3"
+    end_color: "#A22FF6"
+  LEGENDARY:
+    start_color: "#FFD700"
+    end_color: "#DD8A24"
+  MYTHIC:
+    start_color: "#EB9C96"
+    end_color: "#E35B38"
+  RELIC:
+    start_color: "#FFFFFF"
+    end_color: "#F0FFFF"
+  SPECIAL:
+    start_color: "#FF69B4"
+    end_color: "#FF1493"
+  ULTIMATE:
+    start_color: "#4B0082"
+    end_color: "#9400D3"
+  ADMIN:
+    start_color: "#800080"
+    end_color: "#4B0082"
+

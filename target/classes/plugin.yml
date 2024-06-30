@@ -1,0 +1,30 @@
+name: TempusBazaar
+author: PrimalCat
+main: primalcat.tempusbazaar.TempusBazaar
+website: https://discord.gg/aU5DThQCMf
+description: Custom trades for tempus
+version: 1.0.0
+api-version: 1.13
+#depend:
+#  - "DiscordSRV"
+
+commands:
+  bazaarrarity:
+    description: Test display of rarity gradients.
+    usage: "/bazaarrarity <rarity>"
+    permission: tempusbazaar.bazaarrarity
+  bazaaropen:
+    usage: "/bazaaropen <player> <type>"
+    permission: tempusbazaar.bazaaropen
+    permission-message: You do not have permission to use this command.
+  bazaarsave:
+    usage: "/bazaarsave <type>"
+    permission: tempusbazaar.bazaarsave
+  bazaarreload:
+    usage: "/bazaarreload <type>"
+    permission: tempusbazaar.bazaarreload
+  bazaarreroll:
+    description: Reroll random buyer categories
+    usage: "/bazaarreroll"
+    permission: tempusbazaar.bazaarreroll
+

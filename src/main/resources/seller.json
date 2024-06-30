@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "item": "DEEPSLATE_DIAMOND_ORE",
+      "nbt": {
+        "custom_name": {
+          "text": "Шахтерский труд",
+          "color": "gray",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": "Эта категория не меняется",
+            "color": "blue"
+          }
+        ]
+      },
+      "border": {
+        "item": "GRAY_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          },
+          "lore": []
+        }
+      },
+      "products": [
+        {
+          "item": "NETHERITE_INGOT",
+          "nbt": {
+            "custom_model_data": 22,
+            "shockerweapons:shockerweapons": {
+              "shockerweapons:armorClass": 4
+            }
+          },
+          "price": {
+            "min": 8,
+            "current": 20,
+            "max": 20
+          },
+          "count": {
+            "min": 0,
+            "current": 20,
+            "max": 20
+          },
+          "rarity": "Rare",
+          "transaction_type": "buy"
+        }
+      ]
+    }
+  ]
+}

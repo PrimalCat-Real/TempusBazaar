@@ -1,0 +1,1895 @@
+{
+  "categories": [
+    {
+      "item": "DEEPSLATE_DIAMOND_ORE",
+      "nbt": {
+        "custom_name": {
+          "text": "Шахтерский труд",
+          "color": "gray",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": "Эта категория не меняется",
+            "color": "blue"
+          }
+        ]
+      },
+      "border": {
+        "item": "GRAY_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          },
+          "lore": []
+        }
+      },
+      "products": [
+        {
+          "item": "NETHERITE_INGOT",
+          "nbt": {},
+          "price": {
+            "min": 8,
+            "current": 16,
+            "max": 20
+          },
+          "count": {
+            "min": 5,
+            "current": 8,
+            "max": -1
+          },
+          "rarity": "Rare",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DIAMOND_ORE",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 6,
+            "max": 10
+          },
+          "count": {
+            "min": 16,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DEEPSLATE_DIAMOND_ORE",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 6,
+            "max": 10
+          },
+          "count": {
+            "min": 16,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DEEPSLATE_EMERALD_ORE",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 14,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "EMERALD_ORE",
+          "nbt": {},
+          "price": {
+            "min": 5,
+            "current": 9,
+            "max": 15
+          },
+          "count": {
+            "min": 12,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "GOLD_ORE",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 17
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DEEPSLATE_GOLD_ORE",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 8,
+            "max": 15
+          },
+          "count": {
+            "min": 280,
+            "current": 540,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "COAL_ORE",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 7,
+            "max": 13
+          },
+          "count": {
+            "min": 300,
+            "current": 600,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DEEPSLATE_COAL_ORE",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 8,
+            "max": 14
+          },
+          "count": {
+            "min": 260,
+            "current": 560,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "LAPIS_ORE",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 9,
+            "max": 15
+          },
+          "count": {
+            "min": 128,
+            "current": 256,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DEEPSLATE_LAPIS_ORE",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 8,
+            "max": 15
+          },
+          "count": {
+            "min": 128,
+            "current": 256,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        }
+      ]
+    },
+    {
+      "item": "OAK_LOG",
+      "nbt": {
+        "custom_name": {
+          "text": "Лесное хозяйство",
+          "color": "#69350e",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "border": {
+        "item": "BROWN_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          }
+        }
+      },
+      "products": [
+        {
+          "item": "STRIPPED_OAK_LOG",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "STRIPPED_SPRUCE_LOG",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "STRIPPED_JUNGLE_LOG",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "STRIPPED_BIRCH_LOG",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "STRIPPED_ACACIA_LOG",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "STRIPPED_DARK_OAK_LOG",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "STRIPPED_MANGROVE_LOG",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "STRIPPED_CHERRY_LOG",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "STRIPPED_WARPED_STEM",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 200,
+            "current": 400,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "STRIPPED_CRIMSON_STEM",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 200,
+            "current": 400,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        }
+      ]
+    },
+    {
+      "item": "CAKE",
+      "nbt": {
+        "custom_name": {
+          "text": "Пищевое производство",
+          "color": "#ccab58",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "border": {
+        "item": "YELLOW_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          }
+        }
+      },
+      "products": [
+        {
+          "item": "beetroot_soup",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 2,
+            "max": 3
+          },
+          "count": {
+            "min": 16,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "mushroom_stew",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 2,
+            "max": 4
+          },
+          "count": {
+            "min": 16,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "mushroom_stew",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 2,
+            "max": 4
+          },
+          "count": {
+            "min": 16,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "suspicious_stew",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 5
+          },
+          "count": {
+            "min": 15,
+            "current": 19,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "milk_bucket",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 2,
+            "max": 3
+          },
+          "count": {
+            "min": 10,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "honey_bottle",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 6
+          },
+          "count": {
+            "min": 32,
+            "current": 64,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "cooked_rabbit",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 64,
+            "current": 128,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "cooked_beef",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 64,
+            "current": 128,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "glow_berries",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 5
+          },
+          "count": {
+            "min": 100,
+            "current": 200,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "sweet_berries",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 2,
+            "max": 3
+          },
+          "count": {
+            "min": 200,
+            "current": 400,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "chorus_fruit",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 7
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "poisonous_potato",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 5
+          },
+          "count": {
+            "min": 128,
+            "current": 256,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "melon",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "pumpkin",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 7
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "golden_apple",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 6,
+            "max": 12
+          },
+          "count": {
+            "min": 32,
+            "current": 64,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        }
+      ]
+    },
+    {
+      "item": "TORCHFLOWER",
+      "nbt": {
+        "custom_name": {
+          "text": "Сельское хозяйство",
+          "color": "green",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "border": {
+        "item": "LIME_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          }
+        }
+      },
+      "products": [
+        {
+          "item": "SPORE_BLOSSOM",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 3,
+            "max": 7
+          },
+          "count": {
+            "min": 5,
+            "current": 10,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "HANGING_ROOTS",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 2,
+            "max": 6
+          },
+          "count": {
+            "min": 8,
+            "current": 16,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "GLOW_LICHEN",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 2,
+            "max": 4
+          },
+          "count": {
+            "min": 10,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "WITHER_ROSE",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 5
+          },
+          "count": {
+            "min": 64,
+            "current": 128,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DEAD_BUSH",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 6
+          },
+          "count": {
+            "min": 16,
+            "current": 32,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "TORCHFLOWER",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 5,
+            "max": 10
+          },
+          "count": {
+            "min": 64,
+            "current": 128,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "PITCHER_PLANT",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 5,
+            "max": 10
+          },
+          "count": {
+            "min": 64,
+            "current": 128,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        }
+      ]
+    },
+    {
+      "item": "COD",
+      "nbt": {
+        "custom_name": {
+          "text": "Морское дно",
+          "color": "#27a7d6",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "border": {
+        "item": "CYAN_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          }
+        }
+      },
+      "products": [
+        {
+          "item": "axolotl_bucket",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 6,
+            "max": 16
+          },
+          "count": {
+            "min": 10,
+            "current": 22,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "pufferfish_bucket",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 12
+          },
+          "count": {
+            "min": 10,
+            "current": 22,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "salmon_bucket",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 6
+          },
+          "count": {
+            "min": 16,
+            "current": 24,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "cod_bucket",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 6
+          },
+          "count": {
+            "min": 16,
+            "current": 24,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "tropical_fish_bucket",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 3,
+            "max": 6
+          },
+          "count": {
+            "min": 16,
+            "current": 20,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "tadpole_bucket",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 6
+          },
+          "count": {
+            "min": 16,
+            "current": 24,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "ink_sac",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 6
+          },
+          "count": {
+            "min": 64,
+            "current": 128,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "glow_ink_sac",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 6
+          },
+          "count": {
+            "min": 128,
+            "current": 256,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        }
+      ]
+    },
+    {
+      "item": "netherrack",
+      "nbt": {
+        "custom_name": {
+          "text": "Ресурсы Преисподней",
+          "color": "red",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "border": {
+        "item": "RED_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          }
+        }
+      },
+      "products": [
+        {
+          "item": "GILDED_BLACKSTONE",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 7,
+            "max": 12
+          },
+          "count": {
+            "min": 32,
+            "current": 64,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "NETHER_GOLD_ORE",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 6,
+            "max": 14
+          },
+          "count": {
+            "min": 128,
+            "current": 254,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "NETHER_QUARTZ_ORE",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 6,
+            "max": 14
+          },
+          "count": {
+            "min": 128,
+            "current": 254,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "glowstone",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 7,
+            "max": 10
+          },
+          "count": {
+            "min": 100,
+            "current": 200,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "red_nether_bricks",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 6,
+            "max": 15
+          },
+          "count": {
+            "min": 200,
+            "current": 500,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "blaze_rod",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 7,
+            "max": 12
+          },
+          "count": {
+            "min": 254,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "ghast_tear",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 8,
+            "current": 16,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "piglin_head",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 6,
+            "max": 10
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Rare",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "wither_skeleton_skull",
+          "nbt": {},
+          "price": {
+            "min": 7,
+            "current": 10,
+            "max": 16
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Rare",
+          "transaction_type": "sell"
+        }
+      ]
+    },
+    {
+      "item": "white_wool",
+      "nbt": {
+        "custom_name": {
+          "text": "Блоки со спавна",
+          "color": "#6effe7",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "border": {
+        "item": "BLUE_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          }
+        }
+      },
+      "products": [
+        {
+          "item": "SLIME_BLOCK",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 16
+          },
+          "count": {
+            "min": 32,
+            "current": 64,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "REDSTONE_BLOCK",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 16
+          },
+          "count": {
+            "min": 32,
+            "current": 64,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "CRYING_OBSIDIAN",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 16
+          },
+          "count": {
+            "min": 28,
+            "current": 48,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "AMETHYST_BLOCK",
+          "nbt": {},
+          "price": {
+            "min": 8,
+            "current": 16,
+            "max": 24
+          },
+          "count": {
+            "min": 128,
+            "current": 254,
+            "max": -1
+          },
+          "rarity": "Rare",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "PURPUR_BLOCK",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 16
+          },
+          "count": {
+            "min": 254,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "END_STONE",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 7,
+            "max": 14
+          },
+          "count": {
+            "min": 254,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "TUFF",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 6,
+            "max": 12
+          },
+          "count": {
+            "min": 254,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "HONEYCOMB_BLOCK",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 100,
+            "current": 200,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "HONEYCOMB_BLOCK",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 100,
+            "current": 200,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "COPPER_BLOCK",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 8,
+            "max": 12
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "WAXED_OXIDIZED_COPPER_BULB",
+          "nbt": {},
+          "price": {
+            "min": 12,
+            "current": 24,
+            "max": 30
+          },
+          "count": {
+            "min": 64,
+            "current": 128,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "VERDANT_FROGLIGHT",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "OCHRE_FROGLIGHT",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "PEARLESCENT_FROGLIGHT",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 256,
+            "current": 512,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "SEA_LANTERN",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 40,
+            "current": 100,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        }
+      ]
+    },
+    {
+      "item": "JUKEBOX",
+      "nbt": {
+        "custom_name": {
+          "text": "Патимейкер ",
+          "color": "#b26eff",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "border": {
+        "item": "PURPLE_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          }
+        }
+      },
+      "products": [
+        {
+          "item": "music_disc_13",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_cat",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_blocks",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_chirp",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_far",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_mall",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_mellohi",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_stal",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_strad",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_ward",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_11",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_wait",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 3,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_otherside",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 7,
+            "max": 14
+          },
+          "count": {
+            "min": 1,
+            "current": 2,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_pigstep",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 7,
+            "max": 14
+          },
+          "count": {
+            "min": 1,
+            "current": 2,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_relic",
+          "nbt": {},
+          "price": {
+            "min": 7,
+            "current": 12,
+            "max": 20
+          },
+          "count": {
+            "min": 1,
+            "current": 2,
+            "max": -1
+          },
+          "rarity": "Rare",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "music_disc_5",
+          "nbt": {},
+          "price": {
+            "min": 10,
+            "current": 16,
+            "max": 24
+          },
+          "count": {
+            "min": 1,
+            "current": 1,
+            "max": -1
+          },
+          "rarity": "Epic",
+          "transaction_type": "sell"
+        }
+      ]
+    },
+    {
+      "item": "emerald",
+      "nbt": {
+        "custom_name": {
+          "text": "Казна темпуса",
+          "color": "#f28538",
+          "italic": false
+        },
+        "lore": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      "border": {
+        "item": "ORANGE_STAINED_GLASS_PANE",
+        "nbt": {
+          "custom_name": {
+            "text": ""
+          }
+        }
+      },
+      "products": [
+        {
+          "item": "ENCHANTED_GOLDEN_APPLE",
+          "nbt": {},
+          "price": {
+            "min": 6,
+            "current": 10,
+            "max": 14
+          },
+          "count": {
+            "min": 1,
+            "current": 2,
+            "max": -1
+          },
+          "rarity": "Epic",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "heavy_core",
+          "nbt": {},
+          "price": {
+            "min": 10,
+            "current": 16,
+            "max": 30
+          },
+          "count": {
+            "min": 1,
+            "current": 2,
+            "max": -1
+          },
+          "rarity": "Legendary",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DRAGON_HEAD",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 7
+          },
+          "count": {
+            "min": 1,
+            "current": 2,
+            "max": -1
+          },
+          "rarity": "Rare",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "CREEPER_HEAD",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 6,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "IRON_HORSE_ARMOR",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 1,
+            "current": 2,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "GOLDEN_HORSE_ARMOR",
+          "nbt": {},
+          "price": {
+            "min": 3,
+            "current": 6,
+            "max": 12
+          },
+          "count": {
+            "min": 1,
+            "current": 3,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DIAMOND_HORSE_ARMOR",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 14
+          },
+          "count": {
+            "min": 1,
+            "current": 2,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "TURTLE_HELMET",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 5,
+            "max": 16
+          },
+          "count": {
+            "min": 3,
+            "current": 4,
+            "max": -1
+          },
+          "rarity": "Rare",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "DRAGON_BREATH",
+          "nbt": {},
+          "price": {
+            "min": 2,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 64,
+            "current": 128,
+            "max": -1
+          },
+          "rarity": "Rare",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "NETHER_STAR",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 10,
+            "max": 20
+          },
+          "count": {
+            "min": 2,
+            "current": 4,
+            "max": -1
+          },
+          "rarity": "Uncommon",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "HEART_OF_THE_SEA",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 16
+          },
+          "count": {
+            "min": 1,
+            "current": 1,
+            "max": -1
+          },
+          "rarity": "Epic",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "GOAT_HORN",
+          "nbt": {},
+          "price": {
+            "min": 1,
+            "current": 4,
+            "max": 8
+          },
+          "count": {
+            "min": 3,
+            "current": 10,
+            "max": -1
+          },
+          "rarity": "Common",
+          "transaction_type": "sell"
+        },
+        {
+          "item": "TOTEM_OF_UNDYING",
+          "nbt": {},
+          "price": {
+            "min": 4,
+            "current": 8,
+            "max": 16
+          },
+          "count": {
+            "min": 24,
+            "current": 27,
+            "max": -1
+          },
+          "rarity": "Rare",
+          "transaction_type": "sell"
+        }
+      ]
+    }
+  ]
+}
